@@ -3,4 +3,4 @@
 -	HTML | CSS | Javascript | Responsive
 
 <hr/>
-<a href="https://ziad-ahmed22.github.io/templateFourHtmlCssJS/">Live Demo</a>
+<a href="https://ziad-ahmed22.github.io/Template-Four-Html-Css-JS/">Live Demo</a>
